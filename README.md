@@ -1,0 +1,1 @@
+This is Fai's first git project!
